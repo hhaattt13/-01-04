@@ -35,7 +35,7 @@ public class Seasons {
             case spring -> System.out.println("Я люблю весну!");
             case summer -> System.out.println("Я люблю лето!");
             case autumn -> System.out.println("Я люблю осень!");
-            default -> System.out.println("Таккого времени года нет");
+            default -> System.out.println("Такого времени года нет");
         }
     }
 
